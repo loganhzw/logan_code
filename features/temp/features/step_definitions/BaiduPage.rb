@@ -1,6 +1,6 @@
-require 'watir-webdriver'
-require 'rubygems'
+require 'watir-webdrive'
 require 'rspec'
+
 
 class BaiduPage
 	def initialize
